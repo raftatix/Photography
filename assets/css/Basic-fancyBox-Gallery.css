@@ -323,3 +323,20 @@
 .onas {
   font-size:40px;
 }
+
+.foot {
+	height: 30px;
+}
+
+.foot .raf {
+	font-family:'Palanquin';
+    font-size:14px;
+	line-height: 10px;
+	color: #000;
+    font-weight:bold;
+	text-align: center;
+}
+.gwiazda {
+	text-align: center;
+	line-height: 30px;
+}
